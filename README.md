@@ -25,7 +25,6 @@
 | [Instacart Market Basket Analysis](https://github.com/joyee99/Instacart_Analysis) | End-to-end retail analytics, from data quality checks to a Power BI dashboard | SQL Server, Python, Power BI |
 | [Credit EDA](https://github.com/joyee99/Credit_EDA_Assignment) | Exploratory analysis of loan approval data, from business understanding to insights | Python, Jupyter |
 | [Lead Scoring Case Study](https://github.com/joyee99/LeadScoringCaseStudy) | Logistic regression model that predicts lead conversion for an education company | Python, scikit-learn |
-| [Bike Sharing Model](https://github.com/joyee99/BikeSharingModel) | Regression model of bike-sharing demand | Python, Jupyter |
 
 ---
 
